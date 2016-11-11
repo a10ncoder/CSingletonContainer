@@ -1,0 +1,16 @@
+﻿  Singleton.c
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\singleton.c(15): warning C4013: 'calloc' undefined; assuming extern returning int
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\singleton.c(15): warning C4047: '=': 'SINGLETON *' differs in levels of indirection from 'int'
+  Main.c
+  Container.c
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\container.c(13): warning C4013: 'calloc' undefined; assuming extern returning int
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\container.c(13): warning C4047: '=': 'CONTAINER *' differs in levels of indirection from 'int'
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\container.c(15): warning C4047: '=': 'void (__cdecl *)(ICONTAINER *,void *)' differs in levels of indirection from 'void *(__cdecl *)(ICONTAINER *,void *)'
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\container.c(16): warning C4047: '=': 'void (__cdecl *)(ICONTAINER *,void *)' differs in levels of indirection from 'void *(__cdecl *)(ICONTAINER *,void *)'
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\container.c(18): warning C4133: 'return': incompatible types - from 'CONTAINER *' to 'ICONTAINER *'
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\container.c(36): warning C4013: 'free' undefined; assuming extern returning int
+  Generating Code...
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\container.c(25): warning C4716: 'WriteData': must return a value
+c:\users\a10n\documents\visual studio 2015\projects\objectoriented_c_singletoncontainer\objectoriented_c_singletoncontainer\container.c(30): warning C4716: 'GetData': must return a value
+  ObjectOriented_C_SingletonContainer.vcxproj -> c:\users\a10n\documents\visual studio 2015\Projects\ObjectOriented_C_SingletonContainer\Debug\ObjectOriented_C_SingletonContainer.exe
+  ObjectOriented_C_SingletonContainer.vcxproj -> c:\users\a10n\documents\visual studio 2015\Projects\ObjectOriented_C_SingletonContainer\Debug\ObjectOriented_C_SingletonContainer.pdb (Partial PDB)
